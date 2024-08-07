@@ -29,7 +29,7 @@ end
 local button = Instance.new("TextButton")
 button.Name = "TeleportButton"
 button.Size = UDim2.new(0, 50, 0, 50)
-button.Position = UDim2.new(0, 10, 0.5, -25) -- Позиционируем кнопку сбоку
+button.Position = UDim2.new(0, 80, 0.5, -25) -- Позиционируем кнопку сбоку
 button.Text = "Телепортироваться"
 button.Parent = screenGui
 
